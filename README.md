@@ -51,7 +51,7 @@ The graph showing the training and validation loss over epochs, indicating the m
 The confusion matrix representing the model's performance on the test set.
 
 ## Results
-![Results](assets/result.png)
+![Results](assets/image13.png)
 The final results of the model, including accuracy and other metrics.
 
 ## Conclusion
