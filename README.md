@@ -8,27 +8,17 @@ This project aims to develop a system for detecting road accidents using Convolu
 
 ## Contents
 1. [Project Overview](#project-overview)
-2. [Flow Diagram](#flow-diagram)
-3. [Dataset Sample](#dataset-sample)
-4. [CNN Architecture](#cnn-architecture)
-5. [MobileNetV2](#mobilenetv2)
-6. [About the Dataset](#about-the-dataset)
-7. [Training Loss vs Training Accuracy](#training-lossvs-training-accuracy)
-8. [Confusion Matrix](#confusion-matrix)
-9. [Results](#results)
-10. [Conclusion](#conclusion)
-11. [Future Scope](#future-scope)
+2. [CNN Architecture](#cnn-architecture)
+3. [MobileNetV2](#mobilenetv2)
+4. [About the Dataset](#about-the-dataset)
+5. [Training Loss vs Training Accuracy](#training-lossvs-training-accuracy)
+6. [Confusion Matrix](#confusion-matrix)
+7. [Results](#results)
+8. [Conclusion](#conclusion)
+9. [Future Scope](#future-scope)
 
 ## Project Overview
 The rapid growth in the number of vehicles has led to an increase in road accidents. Timely medical intervention can significantly improve the survival chances of accident victims. This project leverages deep learning techniques to detect accidents and send alerts to nearby hospitals.
-
-## Flow Diagram
-![Flow Diagram](assets/flow.png)
-The flow diagram illustrates the overall process of accident detection and alert generation.
-
-## Dataset Sample
-![Dataset Sample](assets/ds.png)
-A sample of the dataset used for training the model. The dataset includes images from various scenarios to train the CNN effectively.
 
 ## CNN Architecture
 ![CNN Architecture](assets/cnn.png)
@@ -69,4 +59,4 @@ We hope this project contributes to improving road safety and saving lives by en
 - **Jai Narayan Singh** (Roll no-232IT016, National Institute of Technology, Surathkal, Karnataka, India)
 
 ## Acknowledgments
-We would like to thank our advisor, Professor [Advisor's Name], for their guidance and support throughout this research project.
+We would like to thank our advisor, Professor Dr.Dinesh Naik, for their guidance and support throughout this research project.
